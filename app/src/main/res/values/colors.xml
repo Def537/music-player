@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Той самий темний нейтральний фон, що й у темі застосунку (Theme.kt nearBlack) -->
+    <color name="splash_background">#120D0B</color>
+</resources>
