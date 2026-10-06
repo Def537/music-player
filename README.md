@@ -54,17 +54,13 @@ The player screen is built around a hand-drawn vinyl turntable: a `Canvas`-rende
 
 ## Screenshots
 
-<!-- Add screenshots to docs/screenshots/ and reference them below, e.g.:
-![Player screen](docs/screenshots/player.png)
--->
-
 | Player | Library | Playlists |
 |---|---|---|
-| _screenshots/player.png_ | _screenshots/library.png_ | _screenshots/playlists.png_ |
+| ![Player screen](docs/screenshots/player.png) | ![Library screen](docs/screenshots/library.png) | ![Playlists screen](docs/screenshots/playlists.png) |
 
 | Widget | Theme customization |
 |---|---|
-| _screenshots/widget.png_ | _screenshots/theme.png_ |
+| ![Home screen widget](docs/screenshots/widget.png) | ![Theme customization](docs/screenshots/theme.png) |
 
 ## Widget
 
