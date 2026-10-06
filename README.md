@@ -60,11 +60,11 @@ The player screen is built around a hand-drawn vinyl turntable: a `Canvas`-rende
 
 | Player | Library | Playlists |
 |---|---|---|
-| _docs/screenshots/player.png_ | _docs/screenshots/library.png_ | _docs/screenshots/playlists.png_ |
+| _screenshots/player.png_ | _screenshots/library.png_ | _screenshots/playlists.png_ |
 
 | Widget | Theme customization |
 |---|---|
-| _docs/screenshots/widget.png_ | _docs/screenshots/theme.png_ |
+| _screenshots/widget.png_ | _screenshots/theme.png_ |
 
 ## Widget
 
